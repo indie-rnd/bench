@@ -1,2 +1,3 @@
 # bench
-Shared repository of research tools, methods, and topics.
+
+Interface for research that integrates with `corpus`.
